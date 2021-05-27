@@ -1,0 +1,7 @@
+мая 27 23:23:36 ikmokhirio systemd[1]: Started MEPhI hello service.
+мая 27 23:23:36 ikmokhirio printf[70149]: Hello, MEPhI!
+мая 27 23:23:36 ikmokhirio systemd[1]: mephi.service: Succeeded.
+мая 27 23:23:36 ikmokhirio systemd[1]: Started MEPhI hello service.
+мая 27 23:23:36 ikmokhirio printf[70151]: Hello, MEPhI!
+мая 27 23:23:36 ikmokhirio systemd[1]: mephi.service: Succeeded.
+

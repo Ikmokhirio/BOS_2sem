@@ -1,0 +1,7 @@
+[Unit]
+Description=MEPhI hello service
+After=sshd.service
+[Service]
+ExecStart=/usr/bin/printf "Hello, MEPhI!"
+[Install]
+WantedBy=multi-user.target
