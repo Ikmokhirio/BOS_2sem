@@ -1,0 +1,14 @@
+Source: mypackage
+Section: misc
+Priority: optional
+Maintainer: ikmokhirio <ikmokhirio@unknown>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/mypackage.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/mypackage.git
+
+Package: mypackage
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Created by Ivan Dryavichev B18-505

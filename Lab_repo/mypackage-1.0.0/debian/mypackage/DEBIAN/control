@@ -1,0 +1,9 @@
+Package: mypackage
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: ikmokhirio <ikmokhirio@unknown>
+Installed-Size: 10
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Created by Ivan Dryavichev B18-505
